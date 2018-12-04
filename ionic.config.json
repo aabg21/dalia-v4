@@ -1,5 +1,7 @@
 {
   "name": "dalia-v4",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
